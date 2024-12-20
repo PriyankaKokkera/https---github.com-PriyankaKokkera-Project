@@ -32,7 +32,7 @@ async function checkWeather(city) {
     } else if (data.weather[0].main === "Mist") {
         weatherIcon.src = "../../asset/image/mist.png";
     } else {
-        weatherIcon.src = "../../asset/image/default.png"; // Optional default icon
+        weatherIcon.src = "../../asset/image/default.png"; 
     }
 
     document.querySelector(".error").style.display = "none";

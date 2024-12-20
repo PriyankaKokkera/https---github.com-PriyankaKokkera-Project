@@ -1,4 +1,4 @@
-/* General styling for the app container */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -18,7 +18,7 @@ body {
     border-radius: 8px;
 }
 
-/* Header styling */
+
 .to-do-app h2 {
     margin: 0;
     font-size: 24px;
@@ -30,7 +30,7 @@ body {
     gap: 10px;
 }
 
-/* Styling for the input and button row */
+
 .row {
     display: flex;
     justify-content: space-between;
@@ -62,7 +62,7 @@ button:hover {
     background-color: #218838;
 }
 
-/* Task list container styling */
+
 #listContainer {
     list-style-type: none;
     padding: 0;
@@ -72,7 +72,7 @@ button:hover {
     border-top: 1px solid #ddd;
 }
 
-/* Individual list item styling */
+
 #listContainer li {
     display: flex;
     justify-content: space-between;
@@ -91,14 +91,14 @@ button:hover {
     background-color: #f0f0f0;
 }
 
-/* Checked (completed) tasks */
+
 #listContainer li.checked {
     text-decoration: line-through;
     color: #999;
     background-color: #e9ecef;
 }
 
-/* Close button styling */
+
 #listContainer li span {
     font-size: 20px;
     font-weight: bold;
