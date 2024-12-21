@@ -1,9 +1,0 @@
-#viswaksen{
-    width:500px;
-    height:500px;
-    background-image:radial-gradient(circle at left top,black 0% 10%,red 10% 20%,transparent 20% 100%),radial-gradient(circle at left bottom,black 0% 10%,red 10% 20%,transparent 20% 100%),radial-gradient(circle at right top,black 0% 10%,red 10% 20%,transparent 20% 100%),radial-gradient(circle at right bottom,black 0% 10%,red 10% 20%,transparent 20% 100%),linear-gradient(gold,transparent,pink),url(../../asset/image/vishwaksen11620112567.jpg); 
-    background-position:center;
-    background-repeat: no-repeat;
-    background-size:100% 100%,100% 100%,100% 100%,100% 100%,100% 100%,100% 100%;
-
-}
